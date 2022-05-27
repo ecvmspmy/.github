@@ -21,6 +21,7 @@
 | Workload Migration | Plan and perform workload migration : on premise -> cloud or cloud -> cloud |
 | Containerized Workload | Environment setup for containerized workload using ECS or EKS following AWS Best Practices |
 | Disaster Recovery Management | Design and setup disaster recovery solutions |
+| Infrastructure as a Code Practices | Provide automation script using CloudFormation or Terraform |
   
 ## ✨ Certifications  
   
